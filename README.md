@@ -69,7 +69,6 @@ def predict_poly_regression(train_X, train_y, test_X, deg):
     predicted_co2 = regression_model.predict(test_X)
     return regression_model, predicted_co2
 ```
-<br>
 * From the 2 to the 10 degree, the regression model is predicted, and the R square adj value is calculated to return the degree with the largest R square adj value.
 ```python
 def get_degree(train_X, train_y, test_X, test_Y):
