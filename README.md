@@ -1,6 +1,6 @@
 # Project Info
 2022 Gachon University Data Science Term Project -YOUNGMIN OH Prof-<br>
-We apply step of the end-to-end BigData process in this project
+We apply step of the end-to-end BigData process in this project<br>
 Our GiitHub: https://github.com/DecisionDisorder/FuelConsumptionRatings.git
 
 If you have any questions about this project, please contact us by email<br><br>
