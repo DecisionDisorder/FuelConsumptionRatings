@@ -3,7 +3,7 @@
 We apply step of the end-to-end BigData process in this project
 
 If you have any questions about this project, please contact us by email<br><br>
-박태환 [@ .com] Preprocessing<br>
+박태환 [chem602@naver.com] Preprocessing<br>
 김현종 [@ .com] Regression<br>
 유소연 [@ .com] Knn<br>
 김민준 [jmk7117@naver.com] K-Fold Validation <br>
